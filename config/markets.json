@@ -1,0 +1,9 @@
+{
+  "SERUM": {
+    "PROGRAM_ADDRESS": "9xQeWvG816bUx9EPjHmaT23yvVM2ZWbrrpZb9PusVFin",
+    "MARKETS": {
+      "SOL/USDC": "9wFFyRfZBsuAha4YcuxcXLKwMxJR43S7fPfQLusDBzvT",
+      "BTC/USDC": "A8YFbxQYFVqKZaoYJLLUVcQiWP7G2MeEgW5wsAQgMvFw"
+    }
+  }
+}

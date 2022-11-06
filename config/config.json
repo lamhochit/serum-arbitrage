@@ -1,0 +1,12 @@
+{
+  "LOG": {
+    "LEVEL": "info"
+  },
+
+  "FEE": {
+    "FTX": 0.0007,
+    "SERUM": 0.0004
+  },
+
+  "QUICK_NODE": "https://winter-restless-fire.solana-mainnet.quiknode.pro/18c9250b45229ba228e63e5b1a2172bf6d301a48/"
+}
